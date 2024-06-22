@@ -4,7 +4,27 @@
 **[Title of Your Dashboard]**
 
 ## Objective
-[Explain the purpose and goal of the dashboard]
+-Analyze patient demographics to understand the age, gender, height, and weight
+distribution across various hospitals.
+● Evaluate disease prevalence to identify the most common diseases treated in hospitals
+and their distribution across different cities and provinces.
+● Examine healthcare costs by assessing the treatment costs associated with different
+diseases and hospitals, and understanding the financial burden on patients with and
+without insurance.
+● Study hospital performance by comparing patient volume, treatment costs, and other
+key metrics across hospitals.
+● Identify patterns in hospital admissions and discharges to determine peak times and
+optimize resource allocation and management.
+● Conduct an insurance coverage analysis to understand the percentage of patients with
+insurance coverage and its impact on treatment costs.
+● Explore the distribution of blood groups among patients and its relevance to healthcare
+services.
+● Gain geographical insights into patient distribution and healthcare needs across different
+cities and provinces in Pakistan.
+● Investigate potential correlations between patient demographics (e.g., age) and
+treatment costs.
+● Enable data-driven decision making for healthcare providers, policymakers, and
+researchers to improve healthcare services and outcomes in Pakistan.
 
 ## Data Collection and Preparation
 - **Source:** [Describe data source]
