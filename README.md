@@ -1,4 +1,3 @@
-# This project is about healthcare data in Pakistan
 # Excel Dashboard Project
 
 ## Project Title
